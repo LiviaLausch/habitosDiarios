@@ -3,7 +3,7 @@
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB . <br/>
 </p>
 
-<p aling="center">
+<p align="center">
 <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-projeto"> Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,31 +20,33 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <img alt= "Projeto Habits" src=".github/preview.jpg"
 width="100%">
 
-##  Tecnologias 
+## 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as segintestecnologias:
 
-- HTML e CSS 
--JavaScript
--Git e Github
--Figma
+<ul>
+ <li> HTML e CSS</li>
+  <li>JavaScript</li>
+  <li>Git e Github</li>
+  <li>Figma</li>
+  </u>
 
-
-## Projeto
+## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-## Layout 
+-[Visite meu projeto online](https://livialausch.github.io/codigos)
+
+## 📂 Layout
+
 Você pode visualizar o layout do projeto através
-[DESSE LINK](https://www.figma.com/community/file/11874220222888947321). É necessário  ter conta no [Figma](https://figma.com) para acessá-lo.
+[Desse link](https://www.figma.com/community/file/11874220222888947321). 
+É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-
-## :memo Licença 
+## :memo: ✍🏻 Licença
 
 Este projeto está sob a licença do MIT.
 
 ---
 
 Feito com ❤
-
-
-
