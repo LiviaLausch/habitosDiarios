@@ -22,7 +22,7 @@ width="100%">
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as segintestecnologias:
+Esse projeto foi desenvolvido com as segintes tecnologias:
 
 <ul>
  <li> HTML e CSS</li>
