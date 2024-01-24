@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as segintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
--[Visite meu projeto online](https://livialausch.github.io/codigos)
+-[Visite meu projeto online](https://livialausch.github.io/habitosDiarios)
 
 ## 📂 Layout
 
